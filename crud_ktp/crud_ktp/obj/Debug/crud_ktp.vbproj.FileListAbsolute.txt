@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2015\Projects\crud_ktp\crud_ktp\bin\Debug\crud_ktp.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\crud_ktp\crud_ktp\bin\Debug\crud_ktp.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\crud_ktp\crud_ktp\bin\Debug\crud_ktp.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\crud_ktp\crud_ktp\bin\Debug\crud_ktp.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\crud_ktp\crud_ktp\obj\Debug\crud_ktp.vbprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\crud_ktp\crud_ktp\obj\Debug\crud_ktp.Form1.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\crud_ktp\crud_ktp\obj\Debug\crud_ktp.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\crud_ktp\crud_ktp\obj\Debug\crud_ktp.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\crud_ktp\crud_ktp\obj\Debug\crud_ktp.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\crud_ktp\crud_ktp\obj\Debug\crud_ktp.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\crud_ktp\crud_ktp\obj\Debug\crud_ktp.pdb

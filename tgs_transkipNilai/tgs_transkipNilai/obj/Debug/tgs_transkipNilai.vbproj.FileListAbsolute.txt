@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2015\Projects\tgs_transkipNilai\tgs_transkipNilai\bin\Debug\tgs_transkipNilai.exe.config
+c:\users\user\documents\visual studio 2015\Projects\tgs_transkipNilai\tgs_transkipNilai\bin\Debug\tgs_transkipNilai.exe
+c:\users\user\documents\visual studio 2015\Projects\tgs_transkipNilai\tgs_transkipNilai\bin\Debug\tgs_transkipNilai.pdb
+c:\users\user\documents\visual studio 2015\Projects\tgs_transkipNilai\tgs_transkipNilai\bin\Debug\tgs_transkipNilai.xml
+c:\users\user\documents\visual studio 2015\Projects\tgs_transkipNilai\tgs_transkipNilai\obj\Debug\tgs_transkipNilai.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\tgs_transkipNilai\tgs_transkipNilai\obj\Debug\tgs_transkipNilai.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\tgs_transkipNilai\tgs_transkipNilai\obj\Debug\tgs_transkipNilai.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\tgs_transkipNilai\tgs_transkipNilai\obj\Debug\tgs_transkipNilai.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\tgs_transkipNilai\tgs_transkipNilai\obj\Debug\tgs_transkipNilai.exe
+c:\users\user\documents\visual studio 2015\Projects\tgs_transkipNilai\tgs_transkipNilai\obj\Debug\tgs_transkipNilai.xml
+c:\users\user\documents\visual studio 2015\Projects\tgs_transkipNilai\tgs_transkipNilai\obj\Debug\tgs_transkipNilai.pdb
