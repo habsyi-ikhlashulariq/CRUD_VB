@@ -1,0 +1,23 @@
+C:\Users\ASUS\Desktop\tugas pbb\tugas pbb\obj\x86\Debug\WindowsApplication2.Form1.resources
+C:\Users\ASUS\Desktop\tugas pbb\tugas pbb\obj\x86\Debug\WindowsApplication2.frmCetak.resources
+C:\Users\ASUS\Desktop\tugas pbb\tugas pbb\obj\x86\Debug\WindowsApplication2.Resources.resources
+C:\Users\ASUS\Desktop\tugas pbb\tugas pbb\obj\x86\Debug\tugas pbb.vbproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\tugas pbb\tugas pbb\bin\Debug\tugas pbb.exe
+C:\Users\ASUS\Desktop\tugas pbb\tugas pbb\bin\Debug\tugas pbb.pdb
+C:\Users\ASUS\Desktop\tugas pbb\tugas pbb\bin\Debug\tugas pbb.xml
+C:\Users\ASUS\Desktop\tugas pbb\tugas pbb\obj\x86\Debug\tugas pbb.exe
+C:\Users\ASUS\Desktop\tugas pbb\tugas pbb\obj\x86\Debug\tugas pbb.xml
+C:\Users\ASUS\Desktop\tugas pbb\tugas pbb\obj\x86\Debug\tugas pbb.pdb
+C:\Users\ASUS\Desktop\tugas pbb\tugas pbb\obj\x86\Debug\WindowsApplication2.Form2.resources
+C:\Users\User\Documents\tugas\tugas_pbb\tugas pbb\obj\x86\Debug\tugas pbb.exe
+C:\Users\User\Documents\tugas\tugas_pbb\tugas pbb\obj\x86\Debug\tugas pbb.xml
+C:\Users\User\Documents\tugas\tugas_pbb\tugas pbb\obj\x86\Debug\tugas pbb.pdb
+C:\Users\User\Documents\tugas\tugas_pbb\tugas pbb\bin\Debug\tugas pbb.exe
+C:\Users\User\Documents\tugas\tugas_pbb\tugas pbb\bin\Debug\tugas pbb.pdb
+C:\Users\User\Documents\tugas\tugas_pbb\tugas pbb\bin\Debug\tugas pbb.xml
+C:\Users\User\Documents\tugas\tugas_pbb\tugas pbb\obj\x86\Debug\tugas pbb.vbprojResolveAssemblyReference.cache
+C:\Users\User\Documents\tugas\tugas_pbb\tugas pbb\obj\x86\Debug\WindowsApplication2.Form1.resources
+C:\Users\User\Documents\tugas\tugas_pbb\tugas pbb\obj\x86\Debug\WindowsApplication2.Form2.resources
+C:\Users\User\Documents\tugas\tugas_pbb\tugas pbb\obj\x86\Debug\WindowsApplication2.frmCetak.resources
+C:\Users\User\Documents\tugas\tugas_pbb\tugas pbb\obj\x86\Debug\WindowsApplication2.Resources.resources
+C:\Users\User\Documents\tugas\tugas_pbb\tugas pbb\obj\x86\Debug\tugas pbb.vbproj.GenerateResource.Cache
